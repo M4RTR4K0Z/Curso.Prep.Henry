@@ -1,5 +1,7 @@
-
+    
+            body { background-color:#000; background-image: url(https://elgourmet.s3.amazonaws.com/recetas/cover/bondi_WV2YC6bQEuTpRmkF79rBAKHZhzoa4v.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;}
             img {width: 400px;}
-            #thirdDiv {height: 600px;width: 500px; background-color: chartreuse;padding: 50px;border: 4mm groove blue}
+            #thirdDiv {margin-left: auto;margin-right: auto;height: 600px;width: 500px; background-color: chartreuse;padding: 50px;border: 4mm groove blue}
             #spanId {font-size: 18px;margin: 50px;}
-            h1 {color: rgb(0, 114, 201);}
+            h1 {text-align: center; color: rgb(0, 114, 201);}
+            .divClass{text-align: center;}
